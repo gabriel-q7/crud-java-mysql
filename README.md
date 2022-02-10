@@ -1,7 +1,7 @@
 # crud-java-mysql
 Projeto CRUD usando Java com o banco de dados MySQL.
 
-Classe que deve ser criado no seguinte caminho: `src/java/DAO/Dados.java`
+Classe que deve ser criada para conexão no seguinte caminho: `src/java/DAO/Dados.java`
 
 ```
 package DAO;
