@@ -1,2 +1,7 @@
 /build/
 /dist/
+<<<<<<< HEAD
+=======
+/nbproject/
+src/java/DAO/Dados.java
+>>>>>>> f6b0c1a7800dcd8bb640ab848f44aa11a9f17f0a
